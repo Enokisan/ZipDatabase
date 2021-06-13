@@ -19,7 +19,7 @@ First of all, you have to download KEN_ALL.CSV by query(3)-"download csv" and cr
 ```bash
 python3 main.py
 
-# [ZIP Database] What do you want? type {0:quit, 1:pick up all, 2:select area, 3: download csv and create table}
+# [ZIP Database] What do you want? type {0:quit, 1:search from zipcode, 2:seacrh from area, 3:download csv and create table}
 
 3
 
